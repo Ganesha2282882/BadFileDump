@@ -1,0 +1,28 @@
+# No virus files ALLOWED! Just a CSV.
+# Block executables
+*.exe
+*.o
+*.dll
+*.pkg
+*.pdf
+*.hlp
+*.chm
+# Block webpages
+*.html
+*.htm
+# Block media files
+*.opus
+*.m4a
+*.mp3
+*.mp4
+*.wmv
+# Block scratch files and photos
+*.sb3
+*.sb2
+*.sb
+*.jp*
+*.png
+# Block cursors
+*.cur
+# Block video, CD-ROM, floppy, etc:
+*.bin
